@@ -41,6 +41,8 @@
 *.su
 *.idb
 *.pdb
+*.json
+*.vscode
 
 # Kernel Module Compile Results
 *.mod*
